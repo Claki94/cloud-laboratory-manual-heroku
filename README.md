@@ -4,7 +4,7 @@
 2. Install the dependencies and build for production.
 3. Create a new repository with a simple web server listening on a port and serving a public folder.
 4. Copy in the public folder the frontend application you want to serve (frontend bundle of step 2).
-5. Intialize the repository with git init.
+5. Intialize the repository with ```git init```.
 6. Install globally the heroku CLI.
 7. Go to your Heroku profile and create a new app.
 8. Select the Heroku buildpack of your preference.
